@@ -5,5 +5,5 @@ rild.libpath=/system/lib/libril-qc-qmi-1.so
 # Enable USB OTG
 persist.sys.isUsbOtgEnabled=true
 
-AICP Device Maintainers
+# AICP Device Maintainers
 ro.aicp.maintainer=TheRingmaster, semdoc (doc HD)
