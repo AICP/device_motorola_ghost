@@ -5,13 +5,13 @@
     "branch": "lp5.1"
   },
   {
-    "repository": "AICP/kernel_motorola_ghost",
+    "repository": "CyanogenMod/android_kernel_motorola_ghost",
     "target_path": "kernel/motorola/ghost",
-    "branch": "lp5.1"
+    "branch": "cm-12.1"
   },
   {
-    "repository": "AICP/device_motorola_msm8960dt-common",
+    "repository": "CyanogenMod/android_device_motorola_msm8960dt-common",
     "target_path": "device/motorola/msm8960dt-common",
-    "branch": "lp5.1"
+    "branch": "cm-12.1"
   }
 ]
