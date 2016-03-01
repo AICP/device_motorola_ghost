@@ -1,8 +1,8 @@
 [
   {
-    "repository": "CyanogenMod/android_device_motorola_msm8960dt-common",
+    "repository": "AICP/device_motorola_msm8960dt-common",
     "target_path": "device/motorola/msm8960dt-common",
-    "branch": "cm-13.0"
+    "branch": "mm6.0"
   },
   {
     "repository": "CyanogenMod/android_kernel_motorola_ghost",
