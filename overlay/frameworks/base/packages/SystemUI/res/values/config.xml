@@ -25,6 +25,6 @@
 <resources>
 
     <!-- Pulse stroke width -->
-    <dimen name="config_pulsePathStrokeWidth">18dp</dimen>
+    <dimen name="config_pulsePathStrokeWidth">25dp</dimen>
 
 </resources>
